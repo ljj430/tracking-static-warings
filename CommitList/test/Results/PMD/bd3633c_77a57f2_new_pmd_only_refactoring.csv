@@ -1,0 +1,2 @@
+Bug,category,class name,method name,field name,source path,start,end
+AvoidDuplicateLiterals,Error Prone,ForwardingMapTest,,,com/google/common/collect/ForwardingMapTest.java,158,158

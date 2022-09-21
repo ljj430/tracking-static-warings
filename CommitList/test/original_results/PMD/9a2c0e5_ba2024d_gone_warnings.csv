@@ -1,0 +1,25 @@
+Bug,category,class name,method name,field name,source path,start,end,FP/TP,Reason
+EmptyCatchBlock,Error Prone,FuturesTest,doTestSuccessfulAsList_resultCancelledRacingInputDone,,com/google/common/util/concurrent/FuturesTest.java,3013,3015,T,a fix
+DataflowAnomalyAnalysis,Error Prone,FuturesTest,testCatching_getThrowsRuntimeException,input,com/google/common/util/concurrent/FuturesTest.java,1374,1386,T,delete
+DataflowAnomalyAnalysis,Error Prone,FuturesTest,testCompletionOrderFutureCancelled,expected,com/google/common/util/concurrent/FuturesTest.java,3452,3466,F,Variable_rename
+DataflowAnomalyAnalysis,Error Prone,FuturesTest,testCompletionOrder,expected,com/google/common/util/concurrent/FuturesTest.java,3399,3401,F,Variable_rename
+DataflowAnomalyAnalysis,Error Prone,FuturesTest,testSuccessfulAsList_resultCancelledRacingInputDone,throwingHandler,com/google/common/util/concurrent/FuturesTest.java,2949,2971,T,delete
+NullAssignment,Error Prone,FutureCallbackTest$ThrowingFuture,ThrowingFuture,,com/google/common/util/concurrent/FutureCallbackTest.java,188,188,F,Class_rename
+DataflowAnomalyAnalysis,Error Prone,FuturesTest,testCatching_getThrowsError,input,com/google/common/util/concurrent/FuturesTest.java,1390,1402,T,delete
+BeanMembersShouldSerialize,Error Prone,FutureCallbackTest$ThrowingFuture,,runtime,com/google/common/util/concurrent/FutureCallbackTest.java,175,175,F,Class_rename
+DataflowAnomalyAnalysis,Error Prone,FuturesTest,testCompletionOrderExceptionThrown,expected,com/google/common/util/concurrent/FuturesTest.java,3419,3434,F,Variable_rename
+AvoidDuplicateLiterals,Error Prone,FuturesTest,testCatchingAsync_fallbackGeneratesError,,com/google/common/util/concurrent/FuturesTest.java,1015,1015,T,a fix
+DataflowAnomalyAnalysis,Error Prone,FuturesTest,testTransformAsync_getThrowsError,input,com/google/common/util/concurrent/FuturesTest.java,625,641,T,delete
+EmptyCatchBlock,Error Prone,FuturesTest,testAllAsList_cancelled,,com/google/common/util/concurrent/FuturesTest.java,1988,1990,T,weird fix
+DataflowAnomalyAnalysis,Error Prone,FuturesTest,testCatchingAsync_getThrowsRuntimeException,input,com/google/common/util/concurrent/FuturesTest.java,1521,1534,T,delete
+DataflowAnomalyAnalysis,Error Prone,FuturesTest,testCatchingAsync_getThrowsError,input,com/google/common/util/concurrent/FuturesTest.java,1538,1551,T,delete
+DataflowAnomalyAnalysis,Error Prone,FuturesTest,testCompletionOrder,expected,com/google/common/util/concurrent/FuturesTest.java,3396,3401,F,Variable_rename
+DataflowAnomalyAnalysis,Error Prone,FuturesTest,testTransformAsync_getThrowsRuntimeException,input,com/google/common/util/concurrent/FuturesTest.java,605,621,T,delete
+DataflowAnomalyAnalysis,Error Prone,FuturesTest,testCompletionOrderExceptionThrown,expected,com/google/common/util/concurrent/FuturesTest.java,3432,3434,F,Variable_rename
+DataflowAnomalyAnalysis,Error Prone,FuturesTest,testTransform_getThrowsRuntimeException,input,com/google/common/util/concurrent/FuturesTest.java,364,380,T,delete
+DataflowAnomalyAnalysis,Error Prone,FuturesTest,testTransform_getThrowsError,input,com/google/common/util/concurrent/FuturesTest.java,384,400,T,delete
+AvoidDuplicateLiterals,Error Prone,FuturesTest,testAllAsList_failure,,com/google/common/util/concurrent/FuturesTest.java,1919,1919,T,a fix
+EmptyCatchBlock,Error Prone,FuturesTest,testCompletionOrderFutureCancelled,,com/google/common/util/concurrent/FuturesTest.java,3460,3462,T,weird fix
+BeanMembersShouldSerialize,Error Prone,FutureCallbackTest$ThrowingFuture,,error,com/google/common/util/concurrent/FutureCallbackTest.java,174,174,F,Class_rename
+DataflowAnomalyAnalysis,Error Prone,FuturesTest,testCompletionOrderFutureCancelled,expected,com/google/common/util/concurrent/FuturesTest.java,3464,3466,F,Variable_rename
+NullAssignment,Error Prone,FutureCallbackTest$ThrowingFuture,ThrowingFuture,,com/google/common/util/concurrent/FutureCallbackTest.java,193,193,F,Class_rename

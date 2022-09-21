@@ -1,0 +1,19 @@
+Bug,category,class name,method name,field name,source path,start,end
+AvoidDuplicateLiterals,Error Prone,EndpointPairTest,testSelfLoop,,com/google/common/graph/EndpointPairTest.java,79,79
+BeanMembersShouldSerialize,Error Prone,GraphEquivalenceTest,,graphType,com/google/common/graph/GraphEquivalenceTest.java,41,41
+CompareObjectsWithEquals,Error Prone,Graphs,equivalent,,com/google/common/graph/Graphs.java,229,229
+CompareObjectsWithEquals,Error Prone,Graphs,equivalent,,com/google/common/graph/Graphs.java,263,263
+CompareObjectsWithEquals,Error Prone,Graphs,equivalent,,com/google/common/graph/Graphs.java,308,308
+BeanMembersShouldSerialize,Error Prone,ConfigurableValueGraph,,edgeCount,com/google/common/graph/ConfigurableValueGraph.java,63,63
+DataflowAnomalyAnalysis,Error Prone,AbstractNetwork,edgeIncidentNodesMap,edgeToIncidentNodesFn,com/google/common/graph/AbstractNetwork.java,167,174
+BeanMembersShouldSerialize,Error Prone,ImmutableGraph$ValueBackedImpl,,backingGraph,com/google/common/graph/ImmutableGraph.java,88,88
+AvoidDuplicateLiterals,Error Prone,EndpointPairTest,testUnorderedEndpointPair,,com/google/common/graph/EndpointPairTest.java,66,66
+BeanMembersShouldSerialize,Error Prone,NetworkEquivalenceTest,,graph,com/google/common/graph/NetworkEquivalenceTest.java,47,47
+DataflowAnomalyAnalysis,Error Prone,ImmutableNetwork,asGraph,asGraph,com/google/common/graph/ImmutableNetwork.java,68,75
+DataflowAnomalyAnalysis,Error Prone,AbstractValueGraph,,edgeToValueFn,com/google/common/graph/AbstractValueGraph.java,57,64
+BeanMembersShouldSerialize,Error Prone,Graphs$TransposedGraph,,graph,com/google/common/graph/Graphs.java,351,351
+BeanMembersShouldSerialize,Error Prone,NetworkEquivalenceTest,,graphType,com/google/common/graph/NetworkEquivalenceTest.java,46,46
+AvoidDuplicateLiterals,Error Prone,EndpointPairTest,testOrderedEndpointPair,,com/google/common/graph/EndpointPairTest.java,52,52
+AvoidFieldNameMatchingMethodName,Error Prone,ConfigurableValueGraph,,VariableDeclaratorId,com/google/common/graph/ConfigurableValueGraph.java,63,63
+BeanMembersShouldSerialize,Error Prone,ConfigurableMutableGraph,,backingGraph,com/google/common/graph/ConfigurableMutableGraph.java,33,33
+BeanMembersShouldSerialize,Error Prone,GraphEquivalenceTest,,graph,com/google/common/graph/GraphEquivalenceTest.java,42,42

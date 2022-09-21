@@ -1,0 +1,16 @@
+Bug,category,class name,method name,field name,source path,start,end
+OverrideBothEqualsAndHashcode,Error Prone,NullPointerTesterTest$OverridesEquals,equals,,com/google/common/testing/NullPointerTesterTest.java,1389,1389
+BeanMembersShouldSerialize,Error Prone,NullPointerTesterTest$TwoArg,,actionWhenFirstParamIsNull,com/google/common/testing/NullPointerTesterTest.java,324,324
+DataflowAnomalyAnalysis,Error Prone,NullPointerTesterTest,testNonStaticOneArgMethodsThatShouldPass,foo,com/google/common/testing/NullPointerTesterTest.java,239,248
+DataflowAnomalyAnalysis,Error Prone,NullPointerTesterTest,testStaticOneArgMethodsThatShouldFail,foundProblem,com/google/common/testing/NullPointerTesterTest.java,228,232
+DataflowAnomalyAnalysis,Error Prone,NullPointerTesterTest,testMessageOtherException,foundProblem,com/google/common/testing/NullPointerTesterTest.java,266,272
+DataflowAnomalyAnalysis,Error Prone,NullPointerTesterTest,testMessageNoException,foundProblem,com/google/common/testing/NullPointerTesterTest.java,279,285
+AvoidCatchingNPE,Error Prone,NullPointerTesterTest$NullRejectingInterfaceDefaultValueChecker,check,,com/google/common/testing/NullPointerTesterTest.java,1204,1204
+DataflowAnomalyAnalysis,Error Prone,NullPointerTesterTest,testNonStaticOneArgMethodsThatShouldFail,foo,com/google/common/testing/NullPointerTesterTest.java,251,262
+DataflowAnomalyAnalysis,Error Prone,NullPointerTesterTest,testPrivateClass,tester,com/google/common/testing/NullPointerTesterTest.java,880,885
+SuspiciousEqualsMethodName,Error Prone,NullPointerTesterTest$DoesNotOverrideEquals,equals,,com/google/common/testing/NullPointerTesterTest.java,1395,1397
+DataflowAnomalyAnalysis,Error Prone,NullPointerTesterTest,testTwoArgNullableNormal,method,com/google/common/testing/NullPointerTesterTest.java,420,431
+DataflowAnomalyAnalysis,Error Prone,NullPointerTesterTest,testTwoArgNullableNullable,method,com/google/common/testing/NullPointerTesterTest.java,434,441
+BeanMembersShouldSerialize,Error Prone,NullPointerTesterTest$TwoArg,,actionWhenSecondParamIsNull,com/google/common/testing/NullPointerTesterTest.java,325,325
+DataflowAnomalyAnalysis,Error Prone,NullPointerTesterTest,testNonStaticOneArgMethodsThatShouldFail,foundProblem,com/google/common/testing/NullPointerTesterTest.java,254,258
+BeanMembersShouldSerialize,Error Prone,NullPointerTesterTest$DefaultValueChecker,,arguments,com/google/common/testing/NullPointerTesterTest.java,906,906

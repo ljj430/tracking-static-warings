@@ -1,0 +1,15 @@
+Bug,category,class name,method name,field name,source path,start,end
+AvoidDuplicateLiterals,Error Prone,EndpointsTest,testSelfLoop,,com/google/common/graph/EndpointsTest.java,77,77
+DataflowAnomalyAnalysis,Error Prone,AbstractNetwork,edgeEndpointsMap,edgeToEndpointsFn,com/google/common/graph/AbstractNetwork.java,211,218
+BeanMembersShouldSerialize,Error Prone,GraphEqualsTest,,graph,com/google/common/graph/GraphEqualsTest.java,41,41
+AvoidDuplicateLiterals,Error Prone,EndpointsTest,testDirectedEndpoints,,com/google/common/graph/EndpointsTest.java,52,52
+BeanMembersShouldSerialize,Error Prone,ConfigurableMutableGraph,,edgeCount,com/google/common/graph/ConfigurableMutableGraph.java,43,43
+AvoidFieldNameMatchingMethodName,Error Prone,ConfigurableMutableGraph,,VariableDeclaratorId,com/google/common/graph/ConfigurableMutableGraph.java,43,43
+BeanMembersShouldSerialize,Error Prone,NetworkEqualsTest,,graph,com/google/common/graph/NetworkEqualsTest.java,46,46
+BeanMembersShouldSerialize,Error Prone,GraphEqualsTest,,graphType,com/google/common/graph/GraphEqualsTest.java,40,40
+BeanMembersShouldSerialize,Error Prone,ImmutableGraph,,edgeCount,com/google/common/graph/ImmutableGraph.java,42,42
+DataflowAnomalyAnalysis,Error Prone,AbstractGraph,edgeValueMap,edgeToValueFn,com/google/common/graph/AbstractGraph.java,157,164
+BeanMembersShouldSerialize,Error Prone,NetworkEqualsTest,,graphType,com/google/common/graph/NetworkEqualsTest.java,45,45
+BeanMembersShouldSerialize,Error Prone,ConfigurableMutableBasicGraph,,backingGraph,com/google/common/graph/ConfigurableMutableBasicGraph.java,33,33
+AvoidDuplicateLiterals,Error Prone,EndpointsTest,testUndirectedEndpoints,,com/google/common/graph/EndpointsTest.java,65,65
+AvoidFieldNameMatchingMethodName,Error Prone,ImmutableGraph,,VariableDeclaratorId,com/google/common/graph/ImmutableGraph.java,42,42

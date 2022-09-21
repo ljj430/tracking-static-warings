@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="beae5b6e-4b8d-4b10-a1e7-29bc31a8a3fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CommitList/test/Results/91b0b20_cfe05df_gone_spotbugs_only_refactoring.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommitList/test/Results/91b0b20_cfe05df_new_spotbugs_only_refactoring.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommitList/test/original_results/PMD/9a2c0e5_ba2024d_gone_warnings.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../CommitList/test/original_results/PMD/9a2c0e5_ba2024d_gone_warnings.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommitList/test/reports/PMD/bd3633c4f98b8545c968356c73de18164abe07a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CommitList/test/reports/PMD/bd3633c4f98b8545c968356c73de18164abe07a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommitList/test/reports/Spotbugs/77a57f215fb6eb5a2c982ac1843299f21deb53d3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CommitList/test/reports/Spotbugs/77a57f215fb6eb5a2c982ac1843299f21deb53d3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Matcher_Hungarian_All_Candidates_refactoringDirect.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Matcher_Hungarian_All_Candidates_refactoringDirect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/refactoringJava/edu/concordia/junjie/RefactoringInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/refactoringJava/edu/concordia/junjie/RefactoringInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/concordia/junjie/RefactoringInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/concordia/junjie/RefactoringInfo.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/concordia/junjie/RefactoringInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="193" column="32" selection-start-line="193" selection-start-column="32" selection-end-line="193" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../../../Master/mutant_analysis/testfile/fifthProblem.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>INLINE</find>
+      <find>EXTRACT</find>
+      <find>MOVE_OPERATION</find>
+      <find>MOVE_</find>
+      <find>EXTRACT_CLASS</find>
+      <find>REPLACE</find>
+      <find>PULL</find>
+      <find>PUSH</find>
+      <find>PUSH_DOWN_</find>
+      <find>PUSH_DOWN_ATT</find>
+      <find>dd5c4c5</find>
+      <find>MOVE</find>
+      <find>MOVE_R</find>
+      <find>org/jclouds/softlayer/domain/ProductItemCategory.java</find>
+      <find>MOVE_ATTRIBUTE</find>
+      <find>/RegionIdToAdminURIFromAccessForTypeAndVersionTest.java</find>
+      <find>org/jclouds/openstack/keystone/v2_0/domain/ApiAccessKeyCredentials.java</find>
+      <find>CloudIdentityAuthenticationApiModule.java</find>
+      <find>attribute</find>
+      <find>MOVE_CLASS</find>
+      <find>ReturnRegionOrProviderTest.java</find>
+      <find>org/jclouds/openstack/keystone/v2_0/suppliers/LocationIdToURIFromAccessForTypeAndVersionTest.java</find>
+      <find>org/jclouds/openstack/keystone/auth/config/CredentialTypesTest.java</find>
+      <find>domain/ApiAccessKeyCredentials.java</find>
+      <find>domain/ProductItemCategory.java</find>
+      <find>providers/softlayer/src/main/java/org/jclouds/softlayer/domain/ProductItemCategory.java&quot;</find>
+      <find>expectedResult</find>
+      <find>FutureCallbackTest.java</find>
+      <find>expected</find>
+      <find>ThrowingFuture</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/edu/concordia/junjie/RefactoringInfo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="77" />
+    <option name="y" value="84" />
+    <option name="width" value="1680" />
+    <option name="height" value="954" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="refactoringJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="refactoringJava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="refactoringJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="refactoringJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="refactoringJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="refactoringJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="junjie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="refactoringJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="refactoringJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="junjie" type="462c0819:PsiDirectoryNode" />
+              <item name="RefactoringInfo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="refactoringJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="RefactoringInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.concordia.junjie.RefactoringInfo" />
+      <module name="refactoringJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.concordia.junjie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RefactoringInfo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="beae5b6e-4b8d-4b10-a1e7-29bc31a8a3fe" name="Default Changelist" comment="" />
+      <created>1603592979570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603592979570</updated>
+      <workItem from="1603592983570" duration="38439000" />
+      <workItem from="1614273585529" duration="291000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38730000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="77" y="84" width="1680" height="954" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6555423" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.33055887" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/edu/concordia/junjie/RefactoringInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="193" column="32" selection-start-line="193" selection-start-column="32" selection-end-line="193" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Apps/java program/30problems/1/src/first/fifthProblem.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../Master/mutant_analysis/major/example/standalone/TriangleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../Master/mutant_analysis/testfile/fifthProblem.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>refactoringJava</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+Bug,category,class name,method name,field name,source path,start,end
+DataflowAnomalyAnalysis,Error Prone,FuturesTest,testTransformAsync_getThrowsRuntimeException,input,com/google/common/util/concurrent/FuturesTest.java,605,621
+AvoidDuplicateLiterals,Error Prone,FuturesTest,testAllAsList_failure,,com/google/common/util/concurrent/FuturesTest.java,1919,1919
+EmptyCatchBlock,Error Prone,FuturesTest,testAllAsList_cancelled,,com/google/common/util/concurrent/FuturesTest.java,1988,1990
+DataflowAnomalyAnalysis,Error Prone,FuturesTest,testTransformAsync_getThrowsError,input,com/google/common/util/concurrent/FuturesTest.java,625,641
+DataflowAnomalyAnalysis,Error Prone,FuturesTest,testCatchingAsync_getThrowsRuntimeException,input,com/google/common/util/concurrent/FuturesTest.java,1521,1534
+DataflowAnomalyAnalysis,Error Prone,FuturesTest,testTransform_getThrowsRuntimeException,input,com/google/common/util/concurrent/FuturesTest.java,364,380
+AvoidDuplicateLiterals,Error Prone,FuturesTest,testCatchingAsync_fallbackGeneratesError,,com/google/common/util/concurrent/FuturesTest.java,1015,1015
+DataflowAnomalyAnalysis,Error Prone,FuturesTest,testSuccessfulAsList_resultCancelledRacingInputDone,throwingHandler,com/google/common/util/concurrent/FuturesTest.java,2949,2971
+DataflowAnomalyAnalysis,Error Prone,FuturesTest,testCatchingAsync_getThrowsError,input,com/google/common/util/concurrent/FuturesTest.java,1538,1551
+DataflowAnomalyAnalysis,Error Prone,FuturesTest,testTransform_getThrowsError,input,com/google/common/util/concurrent/FuturesTest.java,384,400
+DataflowAnomalyAnalysis,Error Prone,FuturesTest,testCatching_getThrowsError,input,com/google/common/util/concurrent/FuturesTest.java,1390,1402
+EmptyCatchBlock,Error Prone,FuturesTest,testCompletionOrderFutureCancelled,,com/google/common/util/concurrent/FuturesTest.java,3460,3462
+EmptyCatchBlock,Error Prone,FuturesTest,doTestSuccessfulAsList_resultCancelledRacingInputDone,,com/google/common/util/concurrent/FuturesTest.java,3013,3015
+DataflowAnomalyAnalysis,Error Prone,FuturesTest,testCatching_getThrowsRuntimeException,input,com/google/common/util/concurrent/FuturesTest.java,1374,1386

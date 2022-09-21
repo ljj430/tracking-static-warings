@@ -1,0 +1,12 @@
+Bug,category,class name,method name,field name,source path,start,end
+SIC_INNER_SHOULD_BE_STATIC_ANON,PERFORMANCE,com.google.common.collect.ForwardingSortedMapTest,testForwarding,,com/google/common/collect/ForwardingSortedMapTest.java,174,174
+SIC_INNER_SHOULD_BE_STATIC_ANON,PERFORMANCE,com.google.common.collect.ForwardingQueueTest,testForwarding,,com/google/common/collect/ForwardingQueueTest.java,128,128
+SIC_INNER_SHOULD_BE_STATIC_ANON,PERFORMANCE,com.google.common.collect.ForwardingSetTest,testForwarding,,com/google/common/collect/ForwardingSetTest.java,133,133
+SIC_INNER_SHOULD_BE_STATIC_ANON,PERFORMANCE,com.google.common.collect.ForwardingMapTest,testForwarding,,com/google/common/collect/ForwardingMapTest.java,160,160
+SIC_INNER_SHOULD_BE_STATIC_ANON,PERFORMANCE,com.google.common.collect.ForwardingSortedMultisetTest,testForwarding,,com/google/common/collect/ForwardingSortedMultisetTest.java,207,207
+SIC_INNER_SHOULD_BE_STATIC_ANON,PERFORMANCE,com.google.common.collect.ForwardingListTest,testForwarding,,com/google/common/collect/ForwardingListTest.java,163,163
+SIC_INNER_SHOULD_BE_STATIC_ANON,PERFORMANCE,com.google.common.collect.ForwardingSortedSetTest,testForwarding,,com/google/common/collect/ForwardingSortedSetTest.java,130,130
+SIC_INNER_SHOULD_BE_STATIC_ANON,PERFORMANCE,com.google.common.collect.ForwardingCollectionTest,testForwarding,,com/google/common/collect/ForwardingCollectionTest.java,126,126
+SIC_INNER_SHOULD_BE_STATIC_ANON,PERFORMANCE,com.google.common.collect.ForwardingNavigableSetTest,testForwarding,,com/google/common/collect/ForwardingNavigableSetTest.java,190,190
+SIC_INNER_SHOULD_BE_STATIC_ANON,PERFORMANCE,com.google.common.collect.ForwardingNavigableMapTest,testForwarding,,com/google/common/collect/ForwardingNavigableMapTest.java,292,292
+SIC_INNER_SHOULD_BE_STATIC_ANON,PERFORMANCE,com.google.common.collect.ForwardingMultisetTest,testForwarding,,com/google/common/collect/ForwardingMultisetTest.java,266,266

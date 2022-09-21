@@ -1,0 +1,10 @@
+Bug,category,class name,method name,field name,source path,start,end
+SIC_INNER_SHOULD_BE_STATIC_ANON,PERFORMANCE,com.google.common.util.concurrent.FuturesTest,testTransform_getThrowsRuntimeException,,com/google/common/util/concurrent/FuturesTest.java,364,364
+SIC_INNER_SHOULD_BE_STATIC_ANON,PERFORMANCE,com.google.common.util.concurrent.FuturesTest,testCatchingAsync_getThrowsError,,com/google/common/util/concurrent/FuturesTest.java,1538,1538
+SIC_INNER_SHOULD_BE_STATIC_ANON,PERFORMANCE,com.google.common.util.concurrent.FuturesTest,testCatching_getThrowsRuntimeException,,com/google/common/util/concurrent/FuturesTest.java,1374,1374
+SIC_INNER_SHOULD_BE_STATIC_ANON,PERFORMANCE,com.google.common.util.concurrent.FuturesTest,testTransformAsync_getThrowsRuntimeException,,com/google/common/util/concurrent/FuturesTest.java,605,605
+SIC_INNER_SHOULD_BE_STATIC_ANON,PERFORMANCE,com.google.common.util.concurrent.FuturesTest,testCatchingAsync_getThrowsRuntimeException,,com/google/common/util/concurrent/FuturesTest.java,1521,1521
+SIC_INNER_SHOULD_BE_STATIC_ANON,PERFORMANCE,com.google.common.util.concurrent.FuturesTest,testCatching_getThrowsError,,com/google/common/util/concurrent/FuturesTest.java,1390,1390
+SIC_INNER_SHOULD_BE_STATIC_ANON,PERFORMANCE,com.google.common.util.concurrent.FuturesTest,testTransformAsync_getThrowsError,,com/google/common/util/concurrent/FuturesTest.java,625,625
+SIC_INNER_SHOULD_BE_STATIC_ANON,PERFORMANCE,com.google.common.util.concurrent.FuturesTest,testTransform_getThrowsError,,com/google/common/util/concurrent/FuturesTest.java,384,384
+SIC_INNER_SHOULD_BE_STATIC_ANON,PERFORMANCE,com.google.common.util.concurrent.FuturesTest,testSuccessfulAsList_resultCancelledRacingInputDone,,com/google/common/util/concurrent/FuturesTest.java,2949,2949

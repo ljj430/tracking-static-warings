@@ -1,0 +1,2 @@
+Bug,category,class name,method name,field name,source path,start,end
+LG_LOST_LOGGER_DUE_TO_WEAK_REFERENCE,EXPERIMENTAL,com.google.common.util.concurrent.FuturesTest,testSuccessfulAsList_resultCancelledRacingInputDone,,com/google/common/util/concurrent/FuturesTest.java,2884,2884

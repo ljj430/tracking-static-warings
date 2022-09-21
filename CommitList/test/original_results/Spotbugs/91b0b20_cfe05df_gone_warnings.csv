@@ -1,0 +1,10 @@
+Bug,category,class name,method name,field name,source path,start,end
+NP_PARAMETER_MUST_BE_NONNULL_BUT_MARKED_AS_NULLABLE,STYLE,com.google.common.graph.ImmutableGraph$1,apply,,com/google/common/graph/ImmutableGraph.java,85,85
+NP_METHOD_PARAMETER_TIGHTENS_ANNOTATION,STYLE,com.google.common.graph.AbstractGraph,equals,,com/google/common/graph/AbstractGraph.java,114,135
+RV_RETURN_VALUE_IGNORED,CORRECTNESS,com.google.common.graph.EndpointsTest,testAdjacentNode_nodeNotIncident,,com/google/common/graph/EndpointsTest.java,94,94
+RV_RETURN_VALUE_IGNORED,CORRECTNESS,com.google.common.graph.GraphTest,edgeValue_nodeNotPresent,,com/google/common/graph/GraphTest.java,159,159
+UWF_FIELD_NOT_INITIALIZED_IN_CONSTRUCTOR,STYLE,com.google.common.graph.GraphTest,validateGraphState,graph,com/google/common/graph/GraphTest.java,43,43
+NP_METHOD_PARAMETER_TIGHTENS_ANNOTATION,STYLE,com.google.common.graph.AbstractNetwork,equals,,com/google/common/graph/AbstractNetwork.java,168,188
+NP_PARAMETER_MUST_BE_NONNULL_BUT_MARKED_AS_NULLABLE,STYLE,com.google.common.graph.AbstractGraph$2,apply,,com/google/common/graph/AbstractGraph.java,160,160
+RV_RETURN_VALUE_IGNORED,CORRECTNESS,com.google.common.graph.GraphsTest,asBasicGraph_graph,,com/google/common/graph/GraphsTest.java,240,240
+RV_RETURN_VALUE_IGNORED,CORRECTNESS,com.google.common.graph.GraphTest,edgeValue_edgeNotPresent,,com/google/common/graph/GraphTest.java,146,146

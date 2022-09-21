@@ -1,0 +1,18 @@
+Bug,category,class name,method name,field name,source path,start,end
+NP_NONNULL_PARAM_VIOLATION,CORRECTNESS,com.google.common.collect.AbstractMapBasedMultimap$WrappedSet,<init>,,com/google/common/collect/AbstractMapBasedMultimap.java,592,592
+NP_PARAMETER_MUST_BE_NONNULL_BUT_MARKED_AS_NULLABLE,STYLE,com.google.common.collect.AbstractSetMultimap,wrapCollection,,com/google/common/collect/AbstractSetMultimap.java,62,62
+NP_PARAMETER_MUST_BE_NONNULL_BUT_MARKED_AS_NULLABLE,STYLE,com.google.common.collect.LinkedListMultimap$ValueForKeyIterator,<init>,,com/google/common/collect/LinkedListMultimap.java,478,496
+NP_NONNULL_PARAM_VIOLATION,CORRECTNESS,com.google.common.collect.AbstractMapBasedMultimap,wrapCollection,,com/google/common/collect/AbstractMapBasedMultimap.java,301,301
+NP_PARAMETER_MUST_BE_NONNULL_BUT_MARKED_AS_NULLABLE,STYLE,com.google.common.collect.AbstractSortedSetMultimap,wrapCollection,,com/google/common/collect/AbstractSortedSetMultimap.java,66,69
+NP_PARAMETER_MUST_BE_NONNULL_BUT_MARKED_AS_NULLABLE,STYLE,com.google.common.collect.AbstractMapBasedMultimap,wrapList,,com/google/common/collect/AbstractMapBasedMultimap.java,305,305
+NP_NONNULL_PARAM_VIOLATION,CORRECTNESS,com.google.common.collect.Multimaps$CustomMultimap,wrapCollection,,com/google/common/collect/Multimaps.java,268,268
+NP_NONNULL_PARAM_VIOLATION,CORRECTNESS,com.google.common.collect.AbstractSortedSetMultimap,wrapCollection,,com/google/common/collect/AbstractSortedSetMultimap.java,67,67
+NP_PARAMETER_MUST_BE_NONNULL_BUT_MARKED_AS_NULLABLE,STYLE,com.google.common.collect.Multimaps$CustomSetMultimap,wrapCollection,,com/google/common/collect/Multimaps.java,445,450
+NP_NONNULL_PARAM_VIOLATION,CORRECTNESS,com.google.common.collect.Multimaps$CustomMultimap,wrapCollection,,com/google/common/collect/Multimaps.java,264,264
+NP_NONNULL_PARAM_VIOLATION,CORRECTNESS,com.google.common.collect.Multimaps$CustomMultimap,wrapCollection,,com/google/common/collect/Multimaps.java,262,262
+NP_NONNULL_PARAM_VIOLATION,CORRECTNESS,com.google.common.collect.Multimaps$CustomSetMultimap,wrapCollection,,com/google/common/collect/Multimaps.java,446,446
+NP_PARAMETER_MUST_BE_NONNULL_BUT_MARKED_AS_NULLABLE,STYLE,com.google.common.collect.AbstractMapBasedMultimap,wrapCollection,,com/google/common/collect/AbstractMapBasedMultimap.java,301,301
+NP_PARAMETER_MUST_BE_NONNULL_BUT_MARKED_AS_NULLABLE,STYLE,com.google.common.collect.TreeBasedTable$TreeRow,<init>,,com/google/common/collect/TreeBasedTable.java,179,185
+NP_NONNULL_PARAM_VIOLATION,CORRECTNESS,com.google.common.collect.Multimaps$CustomSetMultimap,wrapCollection,,com/google/common/collect/Multimaps.java,448,448
+NP_NONNULL_PARAM_VIOLATION,CORRECTNESS,com.google.common.collect.AbstractSortedSetMultimap,wrapCollection,,com/google/common/collect/AbstractSortedSetMultimap.java,69,69
+NP_PARAMETER_MUST_BE_NONNULL_BUT_MARKED_AS_NULLABLE,STYLE,com.google.common.collect.LinkedListMultimap$ValueForKeyIterator,<init>,,com/google/common/collect/LinkedListMultimap.java,464,468

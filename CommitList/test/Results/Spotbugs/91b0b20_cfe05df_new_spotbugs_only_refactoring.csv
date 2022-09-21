@@ -1,0 +1,11 @@
+Bug,category,class name,method name,field name,source path,start,end
+RV_RETURN_VALUE_IGNORED,CORRECTNESS,com.google.common.graph.AbstractGraphTest,predecessors_nodeNotInGraph,,com/google/common/graph/AbstractGraphTest.java,254,254
+RV_RETURN_VALUE_IGNORED,CORRECTNESS,com.google.common.graph.EndpointPairTest,testAdjacentNode_nodeNotIncident,,com/google/common/graph/EndpointPairTest.java,97,97
+RV_RETURN_VALUE_IGNORED,CORRECTNESS,com.google.common.graph.AbstractGraphTest,successors_nodeNotInGraph,,com/google/common/graph/AbstractGraphTest.java,270,270
+NP_METHOD_PARAMETER_TIGHTENS_ANNOTATION,STYLE,com.google.common.graph.ValueGraph,equals,,com/google/common/graph/ValueGraph.java,-1,-1
+NP_PARAMETER_MUST_BE_NONNULL_BUT_MARKED_AS_NULLABLE,STYLE,com.google.common.graph.AbstractValueGraph$1,apply,,com/google/common/graph/AbstractValueGraph.java,60,60
+RV_RETURN_VALUE_IGNORED,CORRECTNESS,com.google.common.graph.AbstractGraphTest,adjacentNodes_nodeNotInGraph,,com/google/common/graph/AbstractGraphTest.java,238,238
+RV_RETURN_VALUE_IGNORED,CORRECTNESS,com.google.common.graph.AbstractGraphTest,inDegree_nodeNotInGraph,,com/google/common/graph/AbstractGraphTest.java,309,309
+RV_RETURN_VALUE_IGNORED,CORRECTNESS,com.google.common.graph.AbstractGraphTest,removeNode_queryAfterRemoval,,com/google/common/graph/AbstractGraphTest.java,385,385
+RV_RETURN_VALUE_IGNORED,CORRECTNESS,com.google.common.graph.AbstractGraphTest,outDegree_nodeNotInGraph,,com/google/common/graph/AbstractGraphTest.java,325,325
+RV_RETURN_VALUE_IGNORED,CORRECTNESS,com.google.common.graph.AbstractGraphTest,degree_nodeNotInGraph,,com/google/common/graph/AbstractGraphTest.java,293,293

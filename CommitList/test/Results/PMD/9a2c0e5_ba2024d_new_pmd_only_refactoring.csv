@@ -1,0 +1,2 @@
+Bug,category,class name,method name,field name,source path,start,end
+MoreThanOneLogger,Error Prone,FuturesTest,,,com/google/common/util/concurrent/FuturesTest.java,98,3456
